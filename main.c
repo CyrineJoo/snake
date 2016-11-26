@@ -16,7 +16,7 @@ int  main()
 
     affiche_grille(grille);
 
-   
+    
 
     
     
