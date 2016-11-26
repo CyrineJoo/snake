@@ -27,5 +27,11 @@ void init_nourriture(char grille[nb_lignes][nb_colonnes])
     //choisir des coordonnées aléatoires entre 0 et nbr_cases
     int x = rand()%nb_lignes;
     int y = rand()%nb_colonnes;
-    grille[x][y] = '-';
+    if (grille[x][y] ==' ')
+    {
+        grille[x][y] = '-';
+    } else {
+        init_nourriture(grille);
+    }
+    
 }
