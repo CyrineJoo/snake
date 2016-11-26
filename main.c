@@ -52,10 +52,12 @@ void affiche_grille(char grille[nb_lignes][nb_colonnes])
 
 
 
+
 void main()
 {
     char grille[nb_lignes][nb_colonnes];
     init_grille(grille);
     affiche_grille(grille);
+    
 }
 
