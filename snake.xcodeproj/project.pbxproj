@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		997C8A781DE9FD9F00A7C8B4 /* graphique.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graphique.h; sourceTree = "<group>"; };
+		997C8A791DEA000900A7C8B4 /* graphique.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = graphique.c; sourceTree = "<group>"; };
+		997C8A7A1DEA066F00A7C8B4 /* modele.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = modele.c; sourceTree = "<group>"; };
+		997C8A7B1DEA06DA00A7C8B4 /* modele.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = modele.h; sourceTree = "<group>"; };
 		99B6343F1DE8DCE2000445DF /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -14,6 +18,10 @@
 		99B634371DE8DC60000445DF = {
 			isa = PBXGroup;
 			children = (
+				997C8A7B1DEA06DA00A7C8B4 /* modele.h */,
+				997C8A7A1DEA066F00A7C8B4 /* modele.c */,
+				997C8A791DEA000900A7C8B4 /* graphique.c */,
+				997C8A781DE9FD9F00A7C8B4 /* graphique.h */,
 				99B6343F1DE8DCE2000445DF /* main.c */,
 			);
 			sourceTree = "<group>";

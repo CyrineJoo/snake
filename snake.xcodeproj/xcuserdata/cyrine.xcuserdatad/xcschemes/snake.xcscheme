@@ -40,7 +40,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd &quot;/Users/cyrine/Desktop/$/snake&quot;&#10;gcc main.c -o main">
+               scriptText = "cd &quot;/Users/cyrine/Desktop/$/snake&quot;&#10;gcc main.c graphique.c modele.c -o main">
             </ActionContent>
          </ExecutionAction>
       </PreActions>
