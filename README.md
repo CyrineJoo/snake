@@ -1,23 +1,17 @@
 <snippet>
-  <content><![CDATA[
-# ${1:#Snake}
-TODO: Write a project description
+  <content>
+# #Snake
+Le3bet snake 3alamya. Nchallah yarabbi nkammalha w nbi3ha w narba7 beha 7atta 2Euros
 ## Installation
-TODO: Describe the installation process
+Kallamni nji n'installilék
 ## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+Ya weldi 9otlek snake, sahla mahla! ma feha ma ta3ref.
 ## History
-TODO: Write history
+Mizzelt nerfess wbarra !!
 ## Credits
-TODO: Write credits
+ta7ya 5assa l'5ouya Issam Yezzi wel ba9i yarja3 laya.
 ## License
-TODO: Write license
-]]></content>
+Joober's CEO !!
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
